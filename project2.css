@@ -1,0 +1,159 @@
+
+ header h2{ 
+    font-family:arial;
+    text-align:center;
+    color:firebrick;
+    padding:30px;
+  }
+  .my{
+      margin-top:-150px;
+  }
+  .one p{
+    font-size:15.5px;
+    font-family: cursive;
+    background-color: rgb(200, 255, 0);
+    color:rgb(128, 0, 32);
+  }
+  .two p{
+    font-size:15.5px;
+    font-family: cursive;
+    background-color: rgb(200, 255, 0);
+    color:rgb(128, 0, 32);
+
+  }
+  .three p{
+    font-size:15.5px;
+    font-family: cursive;
+    background-color: rgb(200, 255, 0);
+    color:rgb(128, 0, 32);
+
+  }
+  .four p{
+    font-size:15.5px;
+    font-family: cursive;
+    background-color: rgb(200, 255, 0);
+    color:rgb(128, 0, 32);
+
+  }
+  .five p{
+    font-size:15.5px;
+    font-family: cursive;
+    background-color: rgb(200, 255, 0);
+    color:rgb(128, 0, 32);
+    
+  }
+  .six p{
+    font-size:15.5px;
+    font-family: cursive;
+    background-color: rgb(200, 255, 0);
+    color:rgb(128, 0, 32);
+    
+  }
+  .seven p{
+    font-size:15.5px;
+    font-family: cursive;
+    background-color: rgb(200, 255, 0);
+    color:rgb(128, 0, 32);
+    
+  }
+  .eight p{
+    font-size:15.5px;
+    font-family: cursive;
+    background-color: rgb(200, 255, 0);
+    color:rgb(128, 0, 32);
+    
+  }
+  .one p:hover{
+    background-color:rgba(223, 77, 9, 0.774);
+        visibility: visible;
+        cursor: pointer;
+  }
+  .two p:hover{
+    background-color:rgba(223, 77, 9, 0.774);
+        visibility: visible;
+        cursor: pointer;
+  }
+  .three p:hover{
+    background-color:rgba(223, 77, 9, 0.774);
+        visibility: visible;
+        cursor: pointer;
+  }
+  .four p:hover{
+    background-color:rgba(223, 77, 9, 0.774);
+        visibility: visible;
+        cursor: pointer;
+  }
+  .five p:hover{
+    background-color:rgba(223, 77, 9, 0.774);
+        visibility: visible;
+        cursor: pointer;
+  }
+  .six p:hover{
+    background-color:rgba(223, 77, 9, 0.774);
+        visibility: visible;
+        cursor: pointer;
+  }
+  .seven p:hover{
+    background-color:rgba(223, 77, 9, 0.774);
+        visibility: visible;
+        cursor: pointer;
+  }
+  .eight p:hover{
+    background-color:rgba(223, 77, 9, 0.774);
+        visibility: visible;
+        cursor: pointer;
+  }
+    .main1{
+        display: grid;
+        grid-template-columns:auto auto auto auto;
+    }
+    .main2{
+        display: grid;
+        grid-template-columns:auto auto auto auto;
+    }
+    .one
+    {
+      border:2px solid red;
+      width:330px;
+      height:500px;
+      margin-left:100px;
+      
+    }
+    .two
+    {
+      border:2px solid red;
+      width:330px;
+      height:500px;
+    
+    }
+    .four
+    {
+      border:2px solid red;
+      width:330px;
+      height:500px;
+      margin-right:-100px;
+      
+    }
+     .five
+    {
+      border:2px solid red;
+      width:330px;
+      height:500px;
+      margin-left:100px;
+  
+    }
+    .six
+    {
+      border:2px solid red;
+      width:330px;
+      height:500px;
+  
+    }
+    .seven
+    {
+      border:2px solid red;
+      width:330px;
+      height:500px;
+      margin-right:-100px;
+  
+    }
